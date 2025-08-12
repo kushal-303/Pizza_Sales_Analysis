@@ -31,7 +31,5 @@ This project contains SQL views and queries designed to analyze pizza sales data
 2. Run the queries in `pizza_sales_analysis.sql`.
 3. Explore the views to gain insights into sales performance.
 
-## 🙌 Acknowledgments
 
-Inspired by real-world business analytics challenges and designed for hands-on learning.
 
