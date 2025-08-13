@@ -22,7 +22,7 @@ This project contains SQL views and queries designed to analyze pizza sales data
 
 ## 📂 Files
 
-- `pizza_sales_analysis.sql`: Contains all SQL views and queries
+- `pizza_sales_analysis.sql`: Contains all SQL views and queries 
 
 
 ## 🚀 How to Use
